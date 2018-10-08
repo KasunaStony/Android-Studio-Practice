@@ -1,0 +1,14 @@
+Android Development Study Resource
+
+基础入门教程:
+http://www.runoob.com/w3cnote/android-tutorial-intro.html
+
+官方文档:
+https://developer.android.com/docs/
+
+
+Important Notes:
+资源访问
+http://www.runoob.com/w3cnote/android-tutorial-project-src-analysis.html
+
+
