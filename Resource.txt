@@ -7,7 +7,7 @@ http://www.runoob.com/w3cnote/android-tutorial-intro.html
 https://developer.android.com/docs/
 
 Stanford:
-http://web.stanford.edu/class/cs193a/lectures.shtml
+http://web.stanford.edu/class/cs193a/videos.shtml
 
 
 Important Notes:
